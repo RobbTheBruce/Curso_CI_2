@@ -27,4 +27,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: robertomartins/go_ci:${{github.ref_name}}
+        tags: leonardosartorello/testeci
